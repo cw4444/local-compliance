@@ -17,9 +17,19 @@ const tools = [
     blurb: "Right-to-work, starter checklist, pension auto-enrolment, contract, GDPR notice — generates a per-hire list.",
   },
   {
+    href: "/toil",
+    title: "TOIL tracker",
+    blurb: "Log Time Off In Lieu accrued and taken, with expiry. Running balance and NMW / 48-hour reminders.",
+  },
+  {
     href: "/retention",
     title: "Data retention prompts",
     blurb: "GDPR-aligned default retention periods per record type. Builds a schedule you can adopt or argue with.",
+  },
+  {
+    href: "/dpo",
+    title: "Do we need a DPO?",
+    blurb: "Walks the UK GDPR Article 37 triggers and produces the written decision record the ICO expects you to keep.",
   },
   {
     href: "/risk-log",

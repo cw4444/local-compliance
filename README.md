@@ -15,7 +15,9 @@ Not legal advice. Think of it as a tidy notebook with the right questions printe
 | **Holiday entitlement explainer** | Works out how many days off someone is owed under the UK statutory minimum (5.6 weeks). Handles part-timers, mid-year starters, and irregular-hours workers. Shows the working. |
 | **Absence policy checker** | Three things in one place: a quick "is this person eligible for Statutory Sick Pay?" check, a Bradford Factor calculator, and a return-to-work meeting template you can fill in. |
 | **Onboarding document checklist** | Tick a few boxes about the role (driving? DBS? remote? handles personal data?) and it produces a full checklist of what you need on file — right-to-work, contract, pension auto-enrolment, the lot. |
+| **TOIL tracker** | Log Time Off In Lieu accrued and taken, with an expiry rule. Running balance, plus reminders about National Minimum Wage and the 48-hour working week. |
 | **Data retention prompts** | A starter schedule of how long you're supposed to keep different records (payroll, HR files, CCTV, marketing consent, etc.) with the legal basis next to each. Edit anything, then export. |
+| **Do we need a DPO?** | Walks the three UK GDPR Article 37 triggers and produces the written decision record the ICO expects you to keep — whether the answer is yes or no. |
 | **Risk log generator** | Add risks, score them (likelihood × impact), assign an owner and review date. Exports as CSV or Markdown. |
 
 Every output has a **Copy** button (sticks it on your clipboard) and a **Download** button (saves a file).

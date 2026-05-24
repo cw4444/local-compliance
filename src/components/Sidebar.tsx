@@ -5,7 +5,9 @@ const links = [
   { href: "/holiday", label: "Holiday entitlement" },
   { href: "/absence", label: "Absence policy check" },
   { href: "/onboarding", label: "Onboarding checklist" },
+  { href: "/toil", label: "TOIL tracker" },
   { href: "/retention", label: "Data retention" },
+  { href: "/dpo", label: "Do we need a DPO?" },
   { href: "/risk-log", label: "Risk log" },
 ];
 
