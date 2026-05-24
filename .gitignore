@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+node_modules/
+.env
+.env.*
+!.env.example
+.DS_Store
+build/
+dist/
+coverage/
+business_admin_outputs/
+*.spec.bak
+.claude/settings.local.json
+*.log
+.next/
+tsconfig.tsbuildinfo
+*:Zone.Identifier
